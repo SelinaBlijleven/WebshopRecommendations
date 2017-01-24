@@ -1,0 +1,22 @@
+Sunday + Monday: No deadline
+Tuesday: Logbook
+Wednesday: Presentation
+Friday: Final deadline
+
+Tasks:
+Shaft height normalized -> Take apart in dot product calculation
+Features in categories: Heel height, shaft width
+Different values for sizes
+Outer sole material: Rubber, thunit, rubber/thunit
+Niet handelsgoederen sold
+How to assign weights?
+Article IDs occur multiple times with multiple colors.
+
+Gemiddelde similarity per product o.b.v. andere producten gekocht bij klant
+Evalueren d.m.v. gemiddelde similarity.
+
+- Niet alle similarities berekenen scheelt geheugen
+- Files inlezen duurt te lang
+
+Done:
+NaN makes dot product very high: If one of the values for the feature is NaN this feature is excluded from the similarity calculation.
