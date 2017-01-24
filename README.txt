@@ -1,0 +1,1 @@
+WebShopRecommendations was a thesis project of Selina Blijleven. This repository includes only code, as the data was confidential.
